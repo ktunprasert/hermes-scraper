@@ -1,5 +1,7 @@
 # Hermes
 
+Scraping Hermes bags lol
+
 **TODO: Add description**
 
 ## Installation
