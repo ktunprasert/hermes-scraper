@@ -1,6 +1,9 @@
 name: Push to airtable
 
 on:
+  schedule:
+    # Run at every 5 minutes of the day
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
